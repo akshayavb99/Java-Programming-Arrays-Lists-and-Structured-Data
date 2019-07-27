@@ -4,8 +4,8 @@ import edu.duke.*;
 /**
  * Write a description of WordFrequencies here.
  * 
- * @Akshaya Balaji (your name) 
- * @July 16,2019 (a version number or a date)
+ * @ Akshaya Balaji (your name) 
+ * @ July 16,2019 (a version number or a date)
  */
 public class WordFrequencies {
     
